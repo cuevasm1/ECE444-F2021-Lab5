@@ -2,7 +2,11 @@
 
 Janelle Cuevas
 
-THis is a clone of the repo: https://github.com/nelaturuk/education_pathways
+This is a clone of the repo: https://github.com/nelaturuk/education_pathways
+
+Activity 1:
+![image](https://user-images.githubusercontent.com/43123955/137651834-f2270397-9bca-4f89-beff-b40f4086f648.png)
+
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
