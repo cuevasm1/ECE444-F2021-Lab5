@@ -5,7 +5,14 @@ Janelle Cuevas
 This is a clone of the repo: https://github.com/nelaturuk/education_pathways
 
 Activity 1:
+
 ![image](https://user-images.githubusercontent.com/43123955/137651834-f2270397-9bca-4f89-beff-b40f4086f648.png)
+
+Activity 2-5:
+I have completed the css code for this activity, however, I ran into a flask problem and was unable to run my code.
+
+Activity 6:
+The search form is more clear in the new UI because of the form formatting. The headers in the search results are also more clear because of the header colour.
 
 
 ## Description
