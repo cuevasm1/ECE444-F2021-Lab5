@@ -8,10 +8,7 @@ from scipy.sparse import load_npz
 from sklearn.metrics.pairwise import cosine_similarity
 from flask import Flask, render_template, request, redirect
 from wtforms import Form, StringField, SelectField
-import Flask
-set FLASK_APP=__init__.py
-set set FLASK_ENV=development
-flask run
+
 
 """Build the search form, including dropdown menus at the top of the page, from the main datafile."""
 class CourseSearchForm(Form):
