@@ -9,7 +9,16 @@ Activity 1:
 ![image](https://user-images.githubusercontent.com/43123955/137651834-f2270397-9bca-4f89-beff-b40f4086f648.png)
 
 Activity 2-5:
-![image](https://user-images.githubusercontent.com/43123955/137665850-526d27f3-a938-4d0c-8fd0-b816ef0f7122.png)
+home page
+![image](https://user-images.githubusercontent.com/43123955/137666989-65d1d903-ea2a-445f-8e3d-edc5185ee1d3.png)
+
+form
+![image](https://user-images.githubusercontent.com/43123955/137667020-2567971e-14a2-4b50-9d49-07ec563715a1.png)
+
+table
+
+
+
 
 
 
